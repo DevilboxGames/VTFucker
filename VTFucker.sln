@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTFucker", "VTFucker\VTFucker.csproj", "{44D9AB91-986F-48BB-A550-EBA7206FDA2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToxicRagers", "..\..\ToxicRagers\ToxicRagers\ToxicRagers\ToxicRagers.csproj", "{9B9C928D-9E64-400E-961E-F134E659146B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D9AB91-986F-48BB-A550-EBA7206FDA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D9AB91-986F-48BB-A550-EBA7206FDA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D9AB91-986F-48BB-A550-EBA7206FDA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D9AB91-986F-48BB-A550-EBA7206FDA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9C928D-9E64-400E-961E-F134E659146B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9C928D-9E64-400E-961E-F134E659146B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9C928D-9E64-400E-961E-F134E659146B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9C928D-9E64-400E-961E-F134E659146B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
